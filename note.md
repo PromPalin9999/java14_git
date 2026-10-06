@@ -24,3 +24,9 @@
 
 ## Quên mật khẩu
 - quên pass
+
+## Đăng ký
+- Username: admin
+- Password: 123456
+- Phone: 099999999
+- Email: admin@gmail.com
